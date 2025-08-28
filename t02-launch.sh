@@ -18,4 +18,3 @@ $THIS_DIR/opi/phoebus-launch.sh
 
 # kill the ssh tunnel when done
 kill $SSH_PID
-
